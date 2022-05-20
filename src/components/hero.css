@@ -1,0 +1,29 @@
+.hero {
+  margin: 5px 0 0;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+.hero img {
+  margin: 20px auto 0;
+  width: 396px;
+}
+
+.hero--experiences_text {
+  width: 374px;
+  margin: 20px 36px 0;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.hero--experiences_text h1 {
+  font-weight: 600;
+  font-size: 36px;
+}
+
+.hero--experiences_text p {
+  font-weight: 300;
+  font-size: 16px;
+}
