@@ -1,0 +1,40 @@
+.card {
+  position: relative;
+  margin: 0 10px;
+  width: 176px;
+  color: #222;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.card--badge {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  background-color: white;
+  padding: 5px 7px;
+  border-radius: 2px;
+  font-weight: bold;
+}
+
+.card img {
+  border-radius: 9px;
+  width: 176px;
+  max-height: 235px;
+}
+
+.card h3 {
+  font-weight: 300;
+}
+
+.card--star {
+  color: #FE395C;
+}
+
+.card--score {
+  color: #918E9B;
+}
+
+.price {
+  font-weight: 600;
+}

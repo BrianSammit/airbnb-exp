@@ -21,9 +21,12 @@
 .hero--experiences_text h1 {
   font-weight: 600;
   font-size: 36px;
+  margin: 0;
 }
 
 .hero--experiences_text p {
   font-weight: 300;
   font-size: 16px;
+  margin: 10px;
+  width: 270px;
 }

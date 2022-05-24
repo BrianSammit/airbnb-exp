@@ -1,10 +1,9 @@
-import logo from '../assests/img/airbnb-logo.png'
 import './navbar.css'
 
 export default function Navbar () {
  return (
     <nav>
-      <img src={logo} alt='airbnb'/>
+      <img src="../img/airbnb-logo.png" alt='airbnb'/>
     </nav>
   )
 }
